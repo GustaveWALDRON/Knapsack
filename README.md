@@ -10,7 +10,6 @@ Run with a text file with the following format:
 
 14 6
 
-first number is object weight
-second number is object value
+first number is object weight, second number is object value
 
 change the filename path to suit text file localization
